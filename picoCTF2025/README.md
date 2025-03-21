@@ -1,4 +1,5 @@
-# Forensic Challenges
+# picoCTF 2025 Challenges
+## Forensic Challenges
 
-## Easy
+### Easy
 - [RED](https://github.com/harimouse/CTF_WriteUps/blob/main/picoCTF2025/RED.md)
