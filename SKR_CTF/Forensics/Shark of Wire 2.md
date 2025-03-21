@@ -1,0 +1,18 @@
+-	Open pcap file in wireshark
+-	Follow the TCP streams and go through the numbered streams
+-	Image files found 
+-	Export objects into a file
+-	Open the html files and username and password is found
+-	Password is binwalk
+-	Use binwalk command for the images
+-	Find the s3cr3t_fl4g.jpg has another image in it
+-	Use unzip extract to extract the image
+-	New image “mystery_letter” hints to steghide being used 
+-	mystery_letter has a note Cuffjbeq vf U4px3e5g3t
+-	Run through a cipher identifier; most likely method is rot13
+-	Run through rot13
+-	Phssword is H4ck3r5t3g
+-	flag.jpg is created
+-	flag.jpg shows SKR{12 5 20 20 5 18 14 21 13 9 14 16 3 1 16}
+-	Run through cipher identifier and A1Z26 cipher most likely
+-	flag is flag{RED4CT3D} 
