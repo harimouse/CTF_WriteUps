@@ -63,4 +63,4 @@ To ensure I hadn’t missed anything, I throw every tool I’ve got at it:
 
 ![hipg10](https://github.com/user-attachments/assets/8fccf539-aabc-4e2f-8075-a51485d493d7)
 
-HUZZAHHH!!! The flag is: umcs{h1dd3n_in_png_st3g}
+HUZZAHHH!!! The flag is: flag{RED4CT3D}
