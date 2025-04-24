@@ -36,6 +36,9 @@ Now the keyword is clearly text that has been encrypted using base64. However if
 RzAxbkchfQ== becomes G01nG!}
 
 Thus, I combined the keyword and the license together to form a much longer ciphertext:
+
 SUNURjI1e0szM3BfRzAxbkchfQ==
+
 and BOOM I have tha flag:
+
 flag{RED4CT3D}
