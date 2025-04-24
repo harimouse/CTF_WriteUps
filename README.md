@@ -1,7 +1,7 @@
 # CTF WriteUps
 ## Repository for CTF WriteUps
 
-This repository is a collection of all the writeups I have completed and would like to share.
+This repository is a collection of all the writeups I have completed and would like to share. (Mostly Forensics like the one trick pony I am)
 
 ## Profiles
 [picoCTF](https://play.picoctf.org/users/har1m0use)
